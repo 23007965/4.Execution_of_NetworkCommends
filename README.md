@@ -27,6 +27,29 @@ This commands includes
 <BR>
 
 ## Output
+## PING
+![image](https://github.com/user-attachments/assets/e5705c37-cc8d-4fc8-8597-1573809e5ccb)
+
+
+## TRACEROUTE
+![image](https://github.com/user-attachments/assets/e067648f-44d3-41a2-9914-066ae216f36d)
+
+
+## IPCONFIG
+![image](https://github.com/user-attachments/assets/a7de6211-3a85-4e6b-a884-b76eece8f88e)
+
+
+## NETSTAT
+![image](https://github.com/user-attachments/assets/69f29000-a0fc-4c7e-adbd-d6cf4951a0db)
+
+
+## FTP(File Transfer Protocol)
+
+
+## CURL (Cliet URL)
+
+
+## NSLOOKUP
 
 ## Result
 Thus Execution of Network commands Performed 
