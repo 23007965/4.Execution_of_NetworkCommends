@@ -44,12 +44,14 @@ This commands includes
 
 
 ## FTP(File Transfer Protocol)
+![image](https://github.com/user-attachments/assets/c3380684-16e5-45a8-8bed-1ef8a01839a4)
 
 
 ## CURL (Cliet URL)
 
 
 ## NSLOOKUP
+![image](https://github.com/user-attachments/assets/29b58a89-4437-4d7c-8df6-978793c533a3)
 
 ## Result
 Thus Execution of Network commands Performed 
