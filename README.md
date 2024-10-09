@@ -48,6 +48,7 @@ This commands includes
 
 
 ## CURL (Cliet URL)
+<img width="794" alt="image" src="https://github.com/user-attachments/assets/5b41c237-46a9-43da-ac4b-70361d1e794b">
 
 
 ## NSLOOKUP
